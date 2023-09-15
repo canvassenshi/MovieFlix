@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+
+Get details of any movie and series.
+Dynamic request and display of data, single page application! 
+Created a clean UI to display details!
+
+![image](https://github.com/canvassenshi/MovieFlix/assets/68025703/04dff92c-4390-482e-a5dc-f9bfe99a846d)
+
+![image](https://github.com/canvassenshi/MovieFlix/assets/68025703/5e5ecdaa-c1dc-46d2-9b87-ad5a43b89024)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
